@@ -26,7 +26,7 @@ public class Quiz {
 	}
 	
 	public void takeQuiz() {
-		//FIXME
+		
 	}
 	
 	public static void main(String[] args) {
